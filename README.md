@@ -40,15 +40,15 @@ O código realiza as seguintes etapas:
 4. Realiza a movimentação suave do servomotor entre os ângulos de 0° e 180°.
 5. Controla o LED RGB para alterar sua luminosidade utilizando interrupções de PWM.
 
-## Como executar
+# Como executar
 
-# Caso seja no simulador:
+## Caso seja no simulador:
 
 1. Compile o código
 2. Entre em diagram.json
 3. Clique no botão de executar e veja a execução do programa
    
-# Caso seja na placa (para ver o LED)
+## Caso seja na placa (para ver o LED)
 
 1. Conecte à placa BitDogLab no computador via cabo USB.
 2. Compile o código.
