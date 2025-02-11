@@ -51,5 +51,5 @@ O código realiza as seguintes etapas:
 # Caso seja na placa (para ver o LED)
 
 1. Conecte à placa BitDogLab no computador via cabo USB.
-2.Compile o código.
-3.Faça o BOOTSEL na placa e clique em run e assista a execução
+2. Compile o código.
+3. Faça o BOOTSEL na placa e clique em run e assista a execução
